@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ7692003PW
+D 3 to 5-Series Cell Li-Ion and Li-Phosphate Battery Monitor (bq76940 Family)
+K
+F http://www.ti.com/lit/gpn/BQ76920
+$ENDCMP
+#
+#End Doc Library

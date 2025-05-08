@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BQ7692003PW
+#/910663/1670791/2.50/20/3/Integrated Circuit
+DEF BQ7692003PW IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "BQ7692003PW" 1150 200 50 H V L CNN
+F2 "SOP65P640X120-20N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/BQ76920" 1150 0 50 H I L CNN
+F4 "3 to 5-Series Cell Li-Ion and Li-Phosphate Battery Monitor (bq76940 Family)" 1150 -100 50 H I L CNN "Description"
+F5 "1.2" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BQ7692003PW" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-BQ7692003PW" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ7692003PW?qs=%2Fd%252BFzHvH4c0Hx6X3GvdboA%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "BQ7692003PW" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bq7692003pw/texas-instruments?utm_currency=USD&region=nac" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X DSG 1 0 0 200 R 50 50 0 0 P
+X CHG 2 0 -100 200 R 50 50 0 0 P
+X VSS 3 0 -200 200 R 50 50 0 0 P
+X SDA 4 0 -300 200 R 50 50 0 0 P
+X SCL 5 0 -400 200 R 50 50 0 0 P
+X TS1 6 0 -500 200 R 50 50 0 0 P
+X CAP1 7 0 -600 200 R 50 50 0 0 P
+X REGOUT 8 0 -700 200 R 50 50 0 0 P
+X REGSRC 9 0 -800 200 R 50 50 0 0 P
+X BAT 10 0 -900 200 R 50 50 0 0 P
+X ALERT 20 1300 0 200 L 50 50 0 0 P
+X SRN 19 1300 -100 200 L 50 50 0 0 P
+X SRP 18 1300 -200 200 L 50 50 0 0 P
+X VC0 17 1300 -300 200 L 50 50 0 0 P
+X VC1 16 1300 -400 200 L 50 50 0 0 P
+X VC2 15 1300 -500 200 L 50 50 0 0 P
+X VC3 14 1300 -600 200 L 50 50 0 0 P
+X VC4 13 1300 -700 200 L 50 50 0 0 P
+X VC5 12 1300 -800 200 L 50 50 0 0 P
+X NC 11 1300 -900 200 L 50 50 0 0 N
+P 5 0 1 6 200 100 1100 100 1100 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
